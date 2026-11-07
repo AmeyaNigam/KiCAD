@@ -22,3 +22,13 @@ An automatic night light circuit that detects ambient light using an LDR and dri
 * **LED Indicator** for output
 
 <img width="1627" height="857" alt="Automatic Night Light" src="https://github.com/AmeyaNigam/KiCAD/blob/main/Project_02_Automatic_Night_Light/Project_02_Automatic_Night_Light.png" />
+
+## Project 3: 555 Timer LED Flasher
+An astable multivibrator circuit built around an NE555 timer IC that continuously flashes an LED at a set frequency.
+
+* **NE555 Timer IC** configured in astable mode for continuous square-wave oscillation
+* **Adjustable Timing Network** using resistors and capacitor 
+* **Power Supply Decoupling** and control voltage filtering for stable operation
+* **LED Indicator Stage** driven by current-limiting resistor
+
+<img width="1627" height="857" alt="555 Timer IC" src="https://github.com/AmeyaNigam/KiCAD/blob/main/Project_03_555_Timer_Flasher/Project_03_555_Timer_Flasher.png" />
